@@ -96,7 +96,7 @@ layers:
   - +
   - ^
   - '&'
-  - '~'
+  - '&msc SCRL_UP'
   - (
   - )
   - /
@@ -108,7 +108,7 @@ layers:
   - _
   - '!'
   - '@'
-  - '#'
+  - '&msc SCRL_DOWN'
   - $
   - '%'
   - {t: KP 0, h: LEFT SHIFT}
